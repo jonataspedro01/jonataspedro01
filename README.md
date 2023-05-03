@@ -6,7 +6,7 @@
 ##
 
 <div style="display: flex">
-<img align="center" height="150em"  src="https://github-readme-stats.vercel.app/api?username=jonataspedro01&show_icons=true&theme=dark"/>
+<img align="center" height="150em"  width="490" src="https://github-readme-stats.vercel.app/api?username=jonataspedro01&show_icons=true&theme=dark"/>
 <img align="center" height="280em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspedro01&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
