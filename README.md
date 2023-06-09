@@ -1,18 +1,20 @@
-### Olá, me chamo Jonatas👋
+### Olá, me chamo Jonatas Pedro👋
 
-- Formado em Sistemas Para Internet - IFRN - Campus Canguaretama
-- 🌱 Atualmente estudando Front-end na turma 4 do Programa one e Back-end na turma 5
+- Formado em Sistemas Para Internet - IFRN - Campus Canguaretama;
+- 🌱 Atualmente estudando Front-end na turma 4 do Programa one e Back-end na turma 5;
+- 📫 Como entrar em contato comigo: jonatas3pedro@hotmail.com
 
 ##
 
-<div style="display: flex">
-<img align="center" height="150em"  width="490" src="https://github-readme-stats.vercel.app/api?username=jonataspedro01&show_icons=true&theme=dark"/>
-<img align="center" height="280em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspedro01&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<div>
+<a href="https://github.com/jonataspedro01">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspedro01&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataspedro01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##
+## Ferramentas e Tecnologias
 
-Trabalho com as seguintes Linguagens: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <div style="display: inline_block">
   <img align="center" alt="JP-Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,3 +23,13 @@ Trabalho com as seguintes Linguagens:
   <img align="center" alt="JP-CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JP-Python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+
+## Contatos:
+
+
+<div>
+  <a href="linkedin.com/in/jonataspedrodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+  
+  ![Snake animation](https://github.com/jonataspedro01/jonataspedro01/blob/output/github-contribution-grid-snake.svg)
