@@ -29,7 +29,11 @@
 
 
 <div>
-  <a href="linkedin.com/in/jonataspedrodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="linkedin.com/in/jonataspedrodev" target="_blank">
+   
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   
+   </a>   
 </div>
   
   <img align="right" alt="Jack" height="200" style="border-radius:50px;"     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExM2NjMjgyYzhkN2U4MWNiODRiYzhmMGViNzRiY2MzNDExNzUxOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2PmMiUc9OH4lO/giphy.gif">
